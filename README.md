@@ -57,17 +57,6 @@ Welcome to the **ECommerce-RFM-Dashboard**, a sleek, interactive, and visually s
    streamlit run app.py
    ```
 
----
-
-## 📂 Data Source
-
-The dashboard uses the [Kaggle E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data), hosted on Google Drive for accessibility. Ensure the file is set to "Anyone with the link" for seamless data loading.
-
-- **File ID**: `1XYXRu-MR2b_r5cF5_mwe_qXOiQA6HFNX`
-- **Note**: For large files, consider using the `gdown` library (`pip install gdown`) as an alternative for data loading.
-
----
-
 ## 🚀 Deployment on Streamlit Cloud
 
 1. Push the repository to GitHub.
