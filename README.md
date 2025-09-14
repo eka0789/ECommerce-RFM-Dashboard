@@ -64,13 +64,10 @@ Welcome to the **ECommerce-RFM-Dashboard**, a sleek, interactive, and visually s
 3. Sign in to [Streamlit Cloud](https://streamlit.io/cloud), connect your GitHub repository, and deploy!
 4. Ensure the Google Drive file is publicly accessible to avoid data loading errors.
 
----
 
 ## 🖼️ Screenshots
+![ECommerce Dashboard](https://raw.githubusercontent.com/eka0789/ECommerce-RFM-Dashboard/main/image/ecommerce%20dashboard.gif)
 
-https://github.com/eka0789/ECommerce-RFM-Dashboard/blob/main/image/ecommerce%20dashboard.gif
-
----
 
 ## 📝 Insights & Recommendations
 
