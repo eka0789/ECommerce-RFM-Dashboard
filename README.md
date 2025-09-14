@@ -1,4 +1,3 @@
-```markdown
 # 🚀 ECommerce-RFM-Dashboard: Dynamic RFM Analysis Dashboard
 
 Welcome to the **ECommerce-RFM-Dashboard**, a sleek, interactive, and visually stunning Streamlit dashboard designed for in-depth e-commerce customer segmentation using RFM (Recency, Frequency, Monetary) analysis. Built with Python, this project leverages data from the [Kaggle E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) to deliver actionable insights for business growth. With modern visualizations, a gradient-themed UI, and enhanced interactivity, this dashboard is crafted to impress and inspire!
@@ -80,7 +79,7 @@ The dashboard uses the [Kaggle E-Commerce Dataset](https://www.kaggle.com/datase
 
 ## 🖼️ Screenshots
 
-*Coming soon! Visual previews of the dashboard's vibrant charts and sleek UI.*
+https://github.com/eka0789/ECommerce-RFM-Dashboard/blob/main/image/ecommerce%20dashboard.gif
 
 ---
 
