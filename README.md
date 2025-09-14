@@ -105,9 +105,9 @@ Want to enhance this dashboard? Contributions are welcome!
 ## 📬 Contact
 
 Built with ❤️ by [eka0789].  
-📧 Reach out for custom analytics solutions: [eka0789@gmail.com](mailto:eka0789@gmail.com)  
-🌐 Portfolio: [https://myportfoliofsdev.vercel.app/](https://myportfoliofsdev.vercel.app/)  
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/eka-prasetyo/)
+📧 Reach out for custom analytics solutions: [MyEmail](mailto:eka0789@gmail.com)  
+🌐 Portfolio: [MyPortfolio](https://myportfoliofsdev.vercel.app/)  
+💼 LinkedIn: [MyLinkedin](https://www.linkedin.com/in/eka-prasetyo/)
 
 ---
 
