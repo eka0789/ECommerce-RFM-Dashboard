@@ -111,16 +111,3 @@ Built with ❤️ by [eka0789].
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Explanation
-- The content has been reformatted into a clean, standard Markdown (`README.md`) structure, maintaining all sections as requested.
-- Headers, bullet points, and code blocks are properly formatted for GitHub rendering.
-- The structure includes an engaging introduction, detailed feature and visualization lists, clear installation and deployment instructions, data source details, insights, and a call-to-action for contributions and contact.
-- Placeholders (`yourusername`, `your.email@example.com`, `yourportfolio.link`, `your-linkedin-profile`) are retained for you to customize.
-- The README is designed to be professional, visually appealing on GitHub, and optimized to showcase your skills for potential employers or clients.
-
-To use this, save the content in a file named `README.md` in your GitHub repository's root directory. Add screenshots to enhance visual appeal, and update the placeholders with your personal details.
